@@ -1,0 +1,1 @@
+Strehan.DataAccess is a class library that executes stored procedures in a SQL Server database and maps the parameters of the stored procedures and the return data of the stored procedure to the properties of an object.
